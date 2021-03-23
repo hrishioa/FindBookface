@@ -8,8 +8,8 @@ This is a simple chrome extension to make searching bookface faster by adding an
 
 ## How to Install
 
-The extension is pending review on the store. For now, you can [download the extension from this repository](https://github.com/hrishioa/FindBookface/raw/master/assets/findbookface.crx), enable Developer Mode in the top right and navigate to `chrome://extensions`, and drag it in.
-Of course, make sure you take a look at [the code first](ext/src/bg/background.js) - just 26 lines!
+The extension is pending review on the store. For now, you can [download the extension from this repository](https://github.com/hrishioa/FindBookface/raw/master/assets/findbookface.crx), navigate to `chrome://extensions`, enable Developer Mode in the top right and drag it in.
+Of course, make sure you take a look at [the code first](ext/src/bg/background.js) - allt 26 lines!
 
 ## Help
 
